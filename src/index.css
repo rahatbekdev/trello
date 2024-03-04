@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Anta&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  /* background-image: url("./assets/a5.jpg"); */
+  background-image: url("https://c8.alamy.com/comp/HMAKNE/the-city-zurich-in-switzerland-with-blue-sky-in-summer-HMAKNE.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
